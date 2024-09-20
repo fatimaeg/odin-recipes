@@ -1,0 +1,18 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    color: brown;
+    text-align: center;
+}
+h2{
+    color: cadetblue;
+}
+p{
+    font-size: 20px;
+    font-weight: 700;
+}
+li{
+    background-color: aliceblue;
+    font-size: 24px;
+}
